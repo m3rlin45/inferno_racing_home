@@ -1,6 +1,6 @@
 ---
 title: Inferno Racing WITH ME 
-intro:   
+tagline: Racing With Data
 ---
 
 <p align="center">
