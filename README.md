@@ -1,2 +1,6 @@
-# inferno_racing_home
-Main landing page for inferno.racing
+![Inferno Racing Logo](assets/temp_logo.png)
+# Inferno Racing WITH ME
+## インフェルノ　レーシング　ウイズミー
+
+
+
