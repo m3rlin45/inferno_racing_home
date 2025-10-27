@@ -1,5 +1,6 @@
 ---
-page.title: Inferno Racing WITH ME 
+title: Inferno Racing WITH ME 
+intro:   
 ---
 
 <p align="center">
