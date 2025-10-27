@@ -1,6 +1,10 @@
-![Inferno Racing Logo](assets/temp_logo.png)
-# Inferno Racing WITH ME
-## インフェルノ　レーシング　ウイズミー
+<p align="center">
+  <img src="assets/temp_logo.png" alt="Inferno Racing Logo" />
+  <h1 align="center"> <ruby>Inferno<rt>インフェルノ</rt> Racing<rt>レーシング</rt> WITH ME<rt>ウイズミー</rt> </ruby> </h1>
+</p>
+
+
+
 
 
 
