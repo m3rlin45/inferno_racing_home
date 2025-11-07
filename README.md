@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/temp_logo.png" alt="Inferno Racing Logo" />
+  <img src="assets/logo.png" alt="Inferno Racing Logo" />
   <h1 align="center"> <ruby>Inferno<rt>インフェルノ</rt> Racing<rt>レーシング</rt> WITH ME<rt>ウイズミー</rt> </ruby> </h1>
 </p>
 
@@ -9,7 +9,8 @@
 **チーム名:** Inferno Racing WITH ME   
 **ドライバー:** Christopher Dewan クリストファー・デワン  
 **チームディレクター&テストドライバー:** 石川 朗   
-**チームプロデューサー&テストドライバー:** 丸山 浩   
+**チームプロデューサー&テストドライバー:** 丸山 浩  
+**レーシングチームデザイン:** 白土 学     
 **参戦カテゴリー:** FJ1500   
 **使用マシン:** MYST KK-F   
 
